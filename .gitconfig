@@ -1,0 +1,7 @@
+[user]
+	name = Belen Bahmer-Rada
+	email = belenbahmerrada@gmail.com
+[credential]
+	helper = osxkeychain
+[init]
+	defaultBranch = Main
